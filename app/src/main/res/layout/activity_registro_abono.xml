@@ -8,6 +8,8 @@
     android:background="@drawable/fondoa">
 
 
+
+
     <TextView
         android:id="@+id/RegAb_txtV_titulo"
         android:layout_width="match_parent"
